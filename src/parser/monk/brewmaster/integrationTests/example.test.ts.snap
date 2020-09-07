@@ -3398,6 +3398,30 @@ exports[`Brewmaster Monk integration test: example log CelestialBrew matches the
         >
           0
         </div>
+        <div
+          style={
+            Object {
+              "marginTop": "0.5em",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "width": "100%",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "overflow": "visible",
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
       </div>
     </div>
     <div
@@ -3980,6 +4004,30 @@ exports[`Brewmaster Monk integration test: example log PurifyingBrew matches the
           className="value"
         >
           72k
+        </div>
+        <div
+          style={
+            Object {
+              "marginTop": "0.5em",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "width": "100%",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "overflow": "visible",
+                  "width": 0,
+                }
+              }
+            />
+          </div>
         </div>
       </div>
     </div>
